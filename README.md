@@ -116,13 +116,5 @@ Puedes encontrar mucho más de este proyecto en nuestra [Wiki.](https://github.c
 
 <div align="center">
   
-## Autores ✒️
-</div>
-<div align="center">
 
-| Luis Solís 	| Roberto Tejedor	| Carolina Molina 	|  Sofia Capmany	| Daniel Prieto 	|  Mauricio Calderón  	|  Andres Yunda	|
-|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|
-| _Scrum Master_ 	|  _Product Owner_	|  _Development Team_	|  _Development Team_	| _Development Team_ 	| _Development Team_ |  _Development Team_	|
-
-</div>
 
